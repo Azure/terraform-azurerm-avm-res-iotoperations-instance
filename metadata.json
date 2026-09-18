@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/azure-verified-modules-tools/main/src/Avm.Authoring/Resources/Schemas/v1/avm-module-metadata.schema.json",
+  "moduleDisplayName": "Azure IoT Operations",
+  "moduleDescription": "AVM Resource Module for Azure IoT Operations",
+  "canonicalType": "Microsoft.IoTOperations/instances",
+  "owners": [
+    "agreaves-ms",
+    "WilliamBerryiii"
+  ],
+  "telemetryIdPrefix": "46d3xtrf.res.ef92c60"
+}
