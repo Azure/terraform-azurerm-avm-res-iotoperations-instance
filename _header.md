@@ -1,3 +1,3 @@
-# terraform-azurerm-avm-template
+# Azure IoT Operations
 
-This is a template repo for Terraform Azure Verified Modules.
+AVM Resource Module for Azure IoT Operations
